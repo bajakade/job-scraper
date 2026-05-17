@@ -61,20 +61,20 @@ Invalid `limit` or `source` values return `400 Bad Request`.
 
 ## Clone
 
-Repository: [github.com/bajakade/jop-scraper](https://github.com/bajakade/jop-scraper)
+Repository: [github.com/bajakade/job-scraper](https://github.com/bajakade/job-scraper)
 
 **SSH** (recommended if you use GitHub SSH keys):
 
 ```bash
-git clone git@github.com:bajakade/jop-scraper.git
-cd jop-scraper
+git clone git@github.com:bajakade/job-scraper.git
+cd job-scraper
 ```
 
 **HTTPS**:
 
 ```bash
-git clone https://github.com/bajakade/jop-scraper.git
-cd jop-scraper
+git clone https://github.com/bajakade/job-scraper.git
+cd job-scraper
 ```
 
 Then install dependencies and start the API (see [Setup](#setup) and [Run locally](#run-locally)).
