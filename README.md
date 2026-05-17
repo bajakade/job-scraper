@@ -59,6 +59,26 @@ curl 'http://localhost:3000/jobs/scrape?source=civil-service'
 
 Invalid `limit` or `source` values return `400 Bad Request`.
 
+## Clone
+
+Repository: [github.com/bajakade/jop-scraper](https://github.com/bajakade/jop-scraper)
+
+**SSH** (recommended if you use GitHub SSH keys):
+
+```bash
+git clone git@github.com:bajakade/jop-scraper.git
+cd jop-scraper
+```
+
+**HTTPS**:
+
+```bash
+git clone https://github.com/bajakade/jop-scraper.git
+cd jop-scraper
+```
+
+Then install dependencies and start the API (see [Setup](#setup) and [Run locally](#run-locally)).
+
 ## Prerequisites
 
 - **Node.js** 20+ (22 recommended)
